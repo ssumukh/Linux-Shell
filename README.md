@@ -18,9 +18,3 @@
 ### Execution:
 
 Type command 'make' to create the executable file 'shell'. To run it, use './shell' command
-
-### Team members:
-
-* Sumukh S 20171404
-* Kusampudi Siva Subrahamanyam Varma 20171406
-
