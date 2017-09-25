@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <string.h>
-#include <makefile.h>
+#include <util.h>
 char *readline()
 {
   int k=size;

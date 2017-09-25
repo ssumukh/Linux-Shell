@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 #include <string.h>
-#include <makefile.h>
+#include <util.h>
 #include <termios.h>
 #include <signal.h>
 #include <errno.h>
