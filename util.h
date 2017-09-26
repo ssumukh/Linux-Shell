@@ -20,9 +20,6 @@
 #include <ctype.h>
 #define size 1024
 #define t_size 100
-#define ANSI_COLOR_GREEN   "\x1b[32m"
-#define ANSI_COLOR_RESET   "\x1b[0m"
-#define ANSI_COLOR_BLUE    "\x1b[34m"
 #define TOK_DELIM " \t\a\n"
 void pwd();
 void printStylo(char * cwd);
