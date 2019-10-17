@@ -1,5 +1,7 @@
 # Implementation of linux shell
 
+Command line interpreter which supports background jobs, environment variables, signal catching, piping and redirection with extensive error-handling.
+
 ### Features:
 
  * Executes most of the commands and programs that can be executed on a normal linux shell
